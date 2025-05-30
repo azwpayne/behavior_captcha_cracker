@@ -139,7 +139,7 @@ terminaltables == 3.1.0
 # slider_captcha/utils/augmentations.py: 1,2
 # slider_captcha/utils/datasets.py: 7,8,11
 # slider_captcha/utils/utils.py: 5,6,7,8
-torch == 1.5.0
+torch == 2.7.0
 
 # slider_captcha/detect.py: 17
 # slider_captcha/test.py: 17,18
