@@ -96,7 +96,7 @@ pyskyscanner == 1.0.1
 # spider_tools/pic_download.py: 2
 # unfinished_click_captcha/geetest/spider/main.py: 3
 # unfinished_click_captcha/yunpian/spider/get_yunpian_pic.py: 6
-requests == 2.22.0
+requests == 2.32.4
 
 # slider_captcha/detect.py: 3
 # slider_captcha/slider_detect.py: 2
